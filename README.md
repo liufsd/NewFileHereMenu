@@ -1,7 +1,7 @@
-# NewFileHereMenu
-New File Menu for Mac OS X
+# Easy New File
+Easy New File for Mac OS X
 
-NewFileMenuPlus is a finder extension which adds some functions in right click menu in the Finder
+Easy New File is a finder extension which adds some functions in right click menu in the Finder
 
 ## Feature:
 
@@ -13,7 +13,7 @@ NewFileMenuPlus is a finder extension which adds some functions in right click m
 ## How to Enable ?
   Q: How to enable ?
   
-  A: Go to System Preferences->Extensions ->enable NewFileMenuPlus
+  A: Go to System Preferences->Extensions ->enable Easy New File
   
   Q:Why not see menu item even enable extensions?
   
@@ -21,6 +21,6 @@ NewFileMenuPlus is a finder extension which adds some functions in right click m
   
 
 ## AppStore
-https://itunes.apple.com/us/app/newfilemenuplus/id1162194131?ls=1&mt=12
+https://itunes.apple.com/us/app/easy-new-file-new-file-here/id1162194131
 
 ![](https://github.com/liufsd/NewFileHereMenu/blob/master/0x0ss.jpg)
