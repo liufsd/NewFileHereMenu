@@ -18,7 +18,12 @@ Easy New File is a finder extension which adds some functions in right click men
   Q:Why not see menu item even enable extensions?
   
   A:This is mac bug not mine.As i know you should relaunch your Finder.
-  
+
+## Translation APP Localizable
+
+  if you want to translate app to your localizable, just download !
+  <a href="https://github.com/liufsd/NewFileHereMenu/blob/master/Localizable"> Localizable </a>, and send your translated to me : liupwade@gmail.com
+
 
 ## AppStore
 https://itunes.apple.com/us/app/easy-new-file-new-file-here/id1162194131

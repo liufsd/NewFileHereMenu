@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+	<key>PREFERENCES_PANEL_LABEL_TITLE</key>
+	<string>New file name</string>
+	<key>PREFERENCES_PANEL_EXTENSION_DESC</key>
+	<string>you can put file extension</string>
+	<key>PREFERENCES_PANEL_BOX_MENU_TITLE</key>
+	<string>Menu</string>
+	<key>PREFERENCES_PANEL_BOX_MENU_ITEM_NEW_FILE_HERE</key>
+	<string>New File Here</string>
+	<key>PREFERENCES_PANEL_BOX_MENU_ITEM_COPY_FILE_PATH</key>
+	<string>Copy File Path</string>
+	<key>PREFERENCES_PANEL_BOX_MENU_ITEM_NEW_TERMINAL_HERE</key>
+	<string>New Terminal Here</string>
+	<key>PREFERENCES_PANEL_BOX_MENU_ITEM_NEW_TERMINAL_TAB_HERE</key>
+	<string>New Terminal Tab Here</string>
+	<key>PREFERENCES_PANEL_BOX_CONFIG_TITLE</key>
+	<string>Menus Config</string>
+	<key>PREFERENCES_PANEL_BOX_CONFIG_ITEM_USE_SUBMENUS</key>
+	<string>Use SubMenus</string>
+	<key>PREFERENCES_PANEL_BOX_CONFIG_ITEM_SHOW_MENU_ICON</key>
+	<string>Show Menu Icon</string>
+	<key>PREFERENCES_PANEL_BOX_CONFIG_ITEM_AUTOMATICALLY_OPEN_NEW_FILE</key>
+	<string>Automatically Open New File</string>
+	<key>PREFERENCES_PANEL_BOX_CONFIG_ITEM_SHOW_MORE_FILE_TEMPLATE</key>
+	<string>Show More File Template</string>
+	<key>PREFERENCES_PANEL_BUTTON_OPEN_SYSTEM_PREFERENCES</key>
+	<string>Open System Preferences</string>
+    <key>DOWNLOAD_FULL_VERSION</key>
+    <string> Easy New File Creator supports only one file type at a time, get Easy New File full version to support multiple file types.</string>
+    <key>PREFERENCES_PANEL_iTerm2_DESC</key>
+    <string>Note: Only work with iTerm 2 3.1.And 3.1 will be release next year or you can install it by yourself or contact me to help you</string>
+    <key>PREFERENCES_PANEL_iTerm2_ENABLE</key>
+    <string>Use iTerm 2</string>
+</dict>
+</plist>

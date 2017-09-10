@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+	<key>FINDER_MENU_ITEM_NEW_FILE_HERE</key>
+	<string>New File Here</string>
+	<key>FINDER_MENU_ITEM_COPY_PATH</key>
+	<string>Copy Path</string>
+	<key>FINDER_MENU_ITEM_NEW_TERMINAL_HERE</key>
+	<string>New Terminal Here</string>
+	<key>FINDER_MENU_ITEM_NEW_TERMINAL_TAB_HERE</key>
+	<string>New Terminal Tab Here</string>
+	<key>FINDER_MENU_ITEM_PREFERENCE_SETTING</key>
+	<string>Preference Setting</string>
+	<key>PREFERENCE_GENERAL</key>
+	<string>General</string>
+	<key>PREFERENCE_ALERT_OK</key>
+	<string>OK</string>
+	<key>PREFERENCE_ALERT_LATER</key>
+	<string>Later</string>
+	<key>PREFERENCE_ALERT_MESSAGETEXT_FREE</key>
+	<string>To start using Easy New File, please enable the extension.", comment: "Title of prompt asking the user to enable the extension.</string>
+	<key>PREFERENCE_ALERT_INFORMATIVETEXT_FREE</key>
+	<string>Click OK to open the Extensions preferences. Under Easy New File Creator , click the checkbox next to “Finder”.</string>
+	<key>PREFERENCE_ALERT_MESSAGETEXT</key>
+	<string>To start using Easy New File, please enable the extension.</string>
+	<key>PREFERENCE_ALERT_INFORMATIVETEXT</key>
+	<string>Click OK to open the Extensions preferences. Under Easy New File, click the checkbox next to “Finder”.</string>
+	<key>PREFERENCE_UNTITLEDFILENAMEFORMAT</key>
+	<string>untitled file</string>
+	<key>PREFERENCE_CREATENEWFILE_SAVE_FILE</key>
+	<string>New File</string>
+	<key>PREFERENCE_CREATENEWFILE_SAVE_AS</key>
+	<string>Save As</string>
+</dict>
+</plist>
