@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+	<key>PREFERENCES_PANEL_LABEL_TITLE</key>
+	<string>नया फ़ाइल नाम</string>
+	<key>PREFERENCES_PANEL_EXTENSION_DESC</key>
+	<string>आप फ़ाइल एक्सटेंशन डाल सकते हैं</string>
+	<key>PREFERENCES_PANEL_BOX_MENU_TITLE</key>
+	<string>मेन्यू</string>
+	<key>PREFERENCES_PANEL_BOX_MENU_ITEM_NEW_FILE_HERE</key>
+	<string>नई फाइल यहाँ</string>
+	<key>PREFERENCES_PANEL_BOX_MENU_ITEM_COPY_FILE_PATH</key>
+	<string>प्रतिलिपि फ़ाइल पाथ</string>
+	<key>PREFERENCES_PANEL_BOX_MENU_ITEM_NEW_TERMINAL_HERE</key>
+	<string>नया टर्मिनल यहाँ</string>
+	<key>PREFERENCES_PANEL_BOX_MENU_ITEM_NEW_TERMINAL_TAB_HERE</key>
+	<string>नया टर्मिनल टैब यहाँ</string>
+	<key>PREFERENCES_PANEL_BOX_CONFIG_TITLE</key>
+	<string>कॉन्फ़िग मेनू</string>
+	<key>PREFERENCES_PANEL_BOX_CONFIG_ITEM_USE_SUBMENUS</key>
+	<string>सबमेनू का उपयोग करें/string>
+	<key>PREFERENCES_PANEL_BOX_CONFIG_ITEM_SHOW_MENU_ICON</key>
+	<string>मेनू आइकन दिखाएं</string>
+	<key>PREFERENCES_PANEL_BOX_CONFIG_ITEM_AUTOMATICALLY_OPEN_NEW_FILE</key>
+	<string>स्वचालित रूप से नई फ़ाइल खोलें</string>
+	<key>PREFERENCES_PANEL_BOX_CONFIG_ITEM_SHOW_MORE_FILE_TEMPLATE</key>
+	<string>अधिक फ़ाइल टेम्पलेट दिखाएं</string>
+	<key>PREFERENCES_PANEL_BUTTON_OPEN_SYSTEM_PREFERENCES</key>
+	<string>सिस्टम पसंद खोले</string>
+    <key>DOWNLOAD_FULL_VERSION</key>
+    <string> ईझी नीव फाईल क्रियेट्र, एक बार में केवल एक फ़ाइल प्रकार का समर्थन करता है,एकाधिक फ़ाइल प्रकारों का समर्थन करने के लिए ईझी नीव फाईल क्रियेट्र पूर्ण संस्करण प्राप्त करे.</string>
+    <key>PREFERENCES_PANEL_iTerm2_DESC</key>
+    <string>ध्यान दें:
+केवल iTerm 2 3.1.तथा 3.1 का काम अगले साल जारी हो जाएगा या आप इसे खुद द्वारा स्थापित कर सकते हैं या आपकी सहायता करने के लिए मुझसे संपर्क कर सकते हैं.</string>
+    <key>PREFERENCES_PANEL_iTerm2_ENABLE</key>
+    <string>iTerm 2 का इस्तेमाल करे</string>
+</dict>
+</plist>
