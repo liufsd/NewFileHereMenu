@@ -1,0 +1,37 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+	<key>FINDER_MENU_ITEM_NEW_FILE_HERE</key>
+	<string>नई फ़ाइल</string>
+	<key>FINDER_MENU_ITEM_COPY_PATH</key>
+	<string>कॉपी पाथ</string>
+	<key>FINDER_MENU_ITEM_NEW_TERMINAL_HERE</key>
+	<string>नया टर्मिनल</string>
+	<key>FINDER_MENU_ITEM_NEW_TERMINAL_TAB_HERE</key>
+	<string>नया टर्मिनल टैब यहाँ</string>
+	<key>FINDER_MENU_ITEM_PREFERENCE_SETTING</key>
+	<string>पसंद सेटिंग</string>
+	<key>PREFERENCE_GENERAL</key>
+	<string>सामान्य</string>
+	<key>PREFERENCE_ALERT_OK</key>
+	<string>ठीक</string>
+	<key>PREFERENCE_ALERT_LATER</key>
+	<string>बाद में</string>
+	<key>PREFERENCE_ALERT_MESSAGETEXT_FREE</key>
+	<string>ईझी नीव फाईल क्रियेट्र का उपयोग शुरू करने के लिए, कृपया एक्सटेंशन चालु करे .", comment: चालु करने की अनुमति".</string>
+	<key>PREFERENCE_ALERT_INFORMATIVETEXT_FREE</key>
+	<string>एक्सटेंशन पसंद सेटिंग चालु करने्केलिये, ईझी नीव फाईल क्रियेट्र के नीचे 'ठीक' दबाएँ , 'खोजक' के बगल वाला चेकबॉक्स दबाएँ .</string>
+	<key>PREFERENCE_ALERT_MESSAGETEXT</key>
+	<string>ईझी नीव फाईल क्रियेट्र का उपयोग शुरू करने के लिए, कृपया एक्सटेंशन चालु करे.</string>
+	<key>PREFERENCE_ALERT_INFORMATIVETEXT</key>
+	<string>एक्सटेंशन पसंद सेटिंग चालु करने्केलिये, ईझी नीव फाईल क्रियेट्र के नीचे 'ठीक' दबाएँ , 'खोजक' के बगल वाला चेकबॉक्स दबाएँ .</string>
+	<key>PREFERENCE_UNTITLEDFILENAMEFORMAT</key>
+	<string>अज्ञात फ़ाइल</string>
+	<key>PREFERENCE_CREATENEWFILE_SAVE_FILE</key>
+	<string>नई फ़ाइल</string>
+	<key>PREFERENCE_CREATENEWFILE_SAVE_AS</key>
+	<string>के रूप रक्षित करें</string>
+</dict>
+</plist>
