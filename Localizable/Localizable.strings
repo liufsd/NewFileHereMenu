@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- change the string value for translations 
+	
+अनुवाद के लिए स्ट्रिंग मान बदलें
 -->
 <!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
 <plist version="1.0">
